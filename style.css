@@ -1,0 +1,25 @@
+#brandlogo {
+    background-color : rgb(240, 220, 166);
+    color : black;
+    }
+
+.fig_center {
+    display: block;
+    margin : 0 auto
+    
+}
+.text_center    {
+    text-align : center;
+}
+.citation   {
+    font-size : 8px;
+    font-style : italic
+}
+
+figcaption  {
+    font-size-adjust : 0.7;
+    margin-bottom : 10px
+}
+p   {
+    margin : 5px;
+}
